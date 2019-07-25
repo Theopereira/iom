@@ -1,6 +1,6 @@
 Olá!
 
-Resolvi novamente publicar o projeto que estou trabahando, porque estou tendo muita dificuldade de instalação do react-native-camera no projeto. Portanto, espero que neste caso eu possa solucionar, segui as orientações da aula e abaixo esta a descrição do erro que esta neste aparecendo.Ha diferença entre o video de aula e algumas descrições no build.grandle do android e bom verivicar.
+Resolvi novamente publicar o projeto que estou trabahando, porque estou tendo muita dificuldade de instalação do react-native-camera no projeto. Portanto, espero que neste caso eu possa solucionar, segui as orientações da aula e abaixo esta a descrição do erro que esta neste aparecendo.Ha diferença entre o video de aula e algumas descrições no build.grandle do android e bom verificar, o ultimo erro haver com react-gradle linha 193 do node-modules.
 
 
 info Running jetifier to migrate libraries to AndroidX. You can disable it using "--no-jetifier" flag.
