@@ -2,7 +2,7 @@ package com.iom;
 
 import android.app.Application;
 import android.util.Log;
-
+import org.reactnative.camera.RNCameraPackage;
 import com.facebook.react.PackageList;
 import com.facebook.hermes.reactexecutor.HermesExecutorFactory;
 import com.facebook.react.bridge.JavaScriptExecutorFactory;
